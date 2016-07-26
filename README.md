@@ -1,3 +1,4 @@
-"# google-homepage"
+# The Odin Project: "google-homepage"
 
-"The Odin Project"
+This is the first HTML/CSS project for the
+[*The Odin Project*](http://www.theodinproject.com//)
